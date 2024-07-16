@@ -9,7 +9,7 @@ Hello
 * 🌍  I'm based in bangkok
 * ✉️  You can contact me at [phumin.k67@rsu.ac.th](mailto:phumin.k67@rsu.ac.th)
 * 🧠  I'm learning CPE.RSU
-* ⚡  สนใจ javascript
+* ⚡  interested javascript
 
 <a href="https://www.github.com/phumin11369" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/phumin11369?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/viewvenly" target="_blank" rel="noreferrer"><img
