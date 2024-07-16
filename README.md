@@ -8,7 +8,6 @@ Hello
 
 * 🌍  I'm based in bangkok
 * ✉️  You can contact me at [phumin.k67@rsu.ac.th](mailto:phumin.k67@rsu.ac.th)
-* 🧠  I'm learning CPE.RSU
 * ⚡  interested javascript
 
 <a href="https://www.github.com/phumin11369" target="_blank" rel="noreferrer"><img
